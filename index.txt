@@ -7,7 +7,7 @@ This is a realestate website devloped by codewithsadee
 
 #---------- HEADER ----------#
 
-alt = logo
+alt = wealthome
 
 Home
 Rent
@@ -40,6 +40,7 @@ Rent
 <span class="material-symbols-rounded" aria-hidden="true">real_estate_agent</span>
 
 Property type
+
 Any
 Houses
 Apartments
@@ -270,7 +271,7 @@ alt = Marci Senter
 
 #---------- FOOTER ----------#
 
-alt = logo
+alt =wealthome
 
 Lorem ipsum dolor sit amet consectetur. Non bibendum sit non congue pharetra pulvinar leo. Sed ut amet ipsum.
 
